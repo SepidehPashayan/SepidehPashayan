@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=240&section=header&text=Sepideh%20Pashayan&fontSize=62&fontAlignY=36&desc=Computer%20Engineering%20student%20%C2%B7%20Aspiring%20AI%20Product%20Engineer&descAlignY=58&descSize=19&animation=fadeIn" alt="Sepideh Pashayan banner" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7C5CFF&center=true&vCenter=true&width=640&lines=I+turn+ML+models+into+products+people+use;Backend+%2B+ML+%2B+product+thinking;Building+things+that+ship+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7C5CFF&center=true&vCenter=true&width=640&lines=Backend+%2B+ML+%2B+product+thinking;" alt="Typing animation" />
 </a>
 
 </div>
