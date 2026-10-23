@@ -12,8 +12,9 @@
 
 ## 👋 About me
 
-**Computer Engineering student** at Qom University of Technology
-Aiming to become an **AI Product Engineer**
+**Computer Engineering student** at Qom University of Technology .
+
+Aiming to become an **AI Product Engineer** .
 
 ## 🛠️ Tech I work with
 
